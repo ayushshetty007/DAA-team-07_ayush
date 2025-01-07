@@ -1,14 +1,14 @@
-qqqqqqqq<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aditya Gavade - Portfolio</title>
+    <title>AYUSH SHETTY - Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header class="header">
-        <h1>DAA Portfolio</h1>
+        <h1>Sustanable Urban Mobility for greater Transportation</h1>
     </header>
     <main>
         <img src="images/images.jpg" alt="Description of the image" width="300">
@@ -19,12 +19,19 @@ qqqqqqqq<!DOCTYPE html>
         <section class="projects">
             <h2>🛠️ Projects</h2>
             <div class="project-card">
-                <h3>Project 1: Traffic Analysis Using Machine Learning</h3>
+                <h3>Project 1: Sustainabale Urban Mobility of Greater Transportation</h3>
                 <ul>
-                    <li><strong>Objectives:</strong> Analyze urban traffic trends and predict traffic jams using ML algorithms.</li>
-                    <li><strong>Features:</strong> Real-time traffic data analysis, predictive ML models, and visualization dashboards.</li>
-                    <li><strong>Technologies:</strong> Machine Learning, GPS/IoT data sources, visualization tools.</li>
-                    <li><strong>Applications:</strong> Improved traffic management, reduced travel time, enhanced emergency response efficiency.</li>
+                    <li><strong>Objectives:</strong> Analyze urban transportation trends to enhance sustainability and optimize mobility systems.
+                                                    Predict and mitigate transportation bottlenecks using computational models.</li>
+                    <li><strong>Features:</strong> Real-time transportation data analysis through efficient algorithms.
+Predictive models implemented using C++ for high performance and reliability.
+User-friendly visualization tools to showcase transportation trends.</li>
+                    <li><strong>Technologies:</strong> Programming Language: C++ for processing transportation data and implementing predictive models.
+Integration with GPS/IoT data sources for dynamic inputs.
+Libraries: Use STL, Boost, or third-party libraries for data processing and analysis.</li>
+                    <li><strong>Applications:</strong> Better traffic and public transit management.
+Enhanced commuter experience with optimized schedules and routes.
+Support for urban planning to promote sustainable and eco-friendly transportation.</li>
                 </ul>
             </div>
         </section>
@@ -38,7 +45,7 @@ qqqqqqqq<!DOCTYPE html>
         </section>
         <section class="find-me">
             <h2>🌐 Find Me Online</h2>
-            <p><a href="https://github.com/ayushshetty" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn</a></p>
+            <p><a href="https://github.com/ayushshetty" target="_blank">GitHub</a> </p>
         </section>
         <section class="details">
             <h2>Portfolio Topic</h2>
@@ -50,7 +57,7 @@ qqqqqqqq<!DOCTYPE html>
                 <dt>SRN</dt>
                 <dd>02FE24BCS404</dd>
                 <dt>Course Instructor</dt>
-                <dd>Shankar B</dd>
+                <dd>prof.Shankar B</dd>
                 <dt>University</dt>
                 <dd>KLE TECHNOLOGY</dd>
                 <dt>Department</dt>
@@ -62,7 +69,7 @@ qqqqqqqq<!DOCTYPE html>
         </blockquote>
     </main>
     <footer class="footer">
-        <p>&copy; 2025 Aditya Gavade</p>
+        <p>&copy; 2025 Ayush Shetty</p>
     </footer>
 </body>
 </html>
