@@ -14,7 +14,7 @@
         <img src="transpo.jpg" alt="Description of the image" width="300">
         <section class="about">
             <h2>Hello, I'm <span class="highlight">AYUSH SHETTTY</span> 👋</h2>
-            <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
+            <p>I am passionate about technology and problem-solving. Here's a glimpse of my Project:</p>
         </section>
         <section class="projects">
             <h2>🛠️ Projects</h2>
