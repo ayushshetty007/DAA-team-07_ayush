@@ -11,7 +11,7 @@
         <h1>Sustanable Urban Mobility for greater Transportation</h1>
     </header>
     <main>
-        <img src="transpo.jpg" alt="Description of the image" width="300">
+        <img src="transpo.jpg" alt="Description of the image" width="200">
         <section class="about">
             <h2>Hello, I'm <span class="highlight">AYUSH SHETTTY</span> 👋</h2>
             <p>I am passionate about technology and problem-solving. Here's a glimpse of my Project:</p>
