@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+qqqqqqqq<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +13,7 @@
     <main>
         <img src="images/images.jpg" alt="Description of the image" width="300">
         <section class="about">
-            <h2>Hello, I'm <span class="highlight">ADITYA GAVADE</span> 👋</h2>
+            <h2>Hello, I'm <span class="highlight">AYUSH SHETTTY</span> 👋</h2>
             <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
         </section>
         <section class="projects">
@@ -38,7 +38,7 @@
         </section>
         <section class="find-me">
             <h2>🌐 Find Me Online</h2>
-            <p><a href="https://github.com/adityagavde48" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn</a></p>
+            <p><a href="https://github.com/ayushshetty" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn</a></p>
         </section>
         <section class="details">
             <h2>Portfolio Topic</h2>
@@ -46,9 +46,9 @@
                 <dt>Course</dt>
                 <dd>DAA (Algorithmic Problem Solving)</dd>
                 <dt>Name</dt>
-                <dd>ADITYA GAVADE</dd>
+                <dd>AYUSH SHETTY</dd>
                 <dt>SRN</dt>
-                <dd>02FE24BCS408</dd>
+                <dd>02FE24BCS404</dd>
                 <dt>Course Instructor</dt>
                 <dd>Shankar B</dd>
                 <dt>University</dt>
